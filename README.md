@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ashutosh!  
 
-🚀 ##Software Engineer | FrontEnd Developer 
+## Software Engineer | FrontEnd Developer 
 
 ### 🔍 About Me  
 - 💻 Currently working on *react js* and exploring *DataBase Domian*  
