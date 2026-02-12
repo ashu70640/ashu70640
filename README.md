@@ -5,7 +5,7 @@
 ### 🔍 About Me  
 - 💻 Currently working on *react js* and exploring *DataBase Domian*  
 - 🤝 Open to collaborating on *FrontEnd Developer, Backend Developer, Software Developer, Database Developer*.  
-- 🎯 *Goal (2025):* Deepen expertise in *Full-Stack And Pl/SQl * while contributing to impactful projects  
+- 🎯 *Goal (2026):* Deepen expertise in *Full-Stack And Pl/SQl * while contributing to impactful projects  
 - 🎯 Seeking *full-time roles in Software Development*  
 
 ### 🛠 Tech Stack  
