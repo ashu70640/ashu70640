@@ -9,12 +9,12 @@
 - 🎯 Seeking *full-time roles in Software Development*  
 
 ### 🛠 Tech Stack  
-- **Programming:** JavaScript, C++
-- **Databases:** MongoDB, Oracle
+- **Programming:** JavaScript, Java
+- **Databases:** MongoDB, Oracle, PostgreSQL
 - **Frontend:** React.js, Redux, React Router, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Testing:** Jest
-- **Cloud:** AWS (EC2, Lambda, S3, SQS)
+- **Cloud:** AWS (EC2, Lambda, S3, SQS), Docker
 - **API Integration:** Postman, Fetch API 
 
 ### 📊 Skills & Proficiency  
