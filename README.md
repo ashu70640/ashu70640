@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh 👋
 
-**Full-Stack Software Engineer | 3+ years building production billing & reconciliation systems**
+**Full-Stack Software Engineer (MERN) | 3+ years building production billing & reconciliation systems**
 
 ---
 
@@ -17,13 +17,13 @@
 
 ### 🛠 Tech Stack
 
-**Frontend:** React.js, Redux, TypeScript, JavaScript, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs, Microservices Architecture, Java
-**AI & Integrations:** Google Gemini API, OpenAI GPT API, Prompt Engineering
-**Databases:** MongoDB, PostgreSQL, Redis, Oracle SQL
-**DevOps & Cloud:** Docker, Nginx, AWS (EC2, Lambda, S3, SQS), Render
-**Architecture & System Design:** Load Balancing, Caching, Rate Limiting, Message Queues, Consistent Hashing, JWT Auth
-**Testing & Tools:** K6 Load Testing, Jest, Postman, Git, GitHub, Jira
+- **Frontend:** React.js, Redux, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, Microservices Architecture, Java
+- **AI & Integrations:** Google Gemini API, OpenAI GPT API, Prompt Engineering
+- **Databases:** MongoDB, PostgreSQL, Redis, Oracle SQL
+- **DevOps & Cloud:** Docker, Nginx, AWS (EC2, Lambda, S3, SQS), Render
+- **Architecture & System Design:** Load Balancing, Caching, Rate Limiting, Message Queues, Consistent Hashing, JWT Auth
+- **Testing & Tools:** K6 Load Testing, Jest, Postman, Git, GitHub, Jira
 
 ---
 
